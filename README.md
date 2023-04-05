@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmt-ht" alt="nmt-ht" /></a> </p>
 
-- 🔭 I’m currently working on **Blazor, API, Microservices, .NET Framework, SQL Server**
+- 🔭 I’m currently working on **Blazor Framework, Rest API, Microservices, .NET Framework, SQL Server,...**
 
 - 🌱 I’m currently learning **.NET Core, Design partern, Coding refactor, Clean Code, ...**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nmt-ht](https://github.com/nmt-ht)
 
-- 💬 Ask me about **.NET, Blazor, API,...**
+- 💬 Ask me about **.NET, Rest API,...**
 
 - 📫 How to reach me **nguyenminhtuht94@gmail.com**
 
